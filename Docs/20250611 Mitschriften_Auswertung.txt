@@ -1,0 +1,39 @@
+Balkendiagramm
+-> Fehlerbalken
+Standardabweichung/2
+als Positiver und Negativer Fehlerbalken eintragen
+--> ist die Hälfte der Abweichung der entsprechende Halbe Fehlerbalken?
+
+
+Boxplots in Excel?
+
+
+
+
+
+nächsten ToDos
+==============
+Hypothesen / Ergebnisse sortieren
+-> entsprechende Diagramme erstellen
+
+Latex einrichten
+- installieren
+v git
+- grobe Kapitel / Ordner Struktur
+- alle Notizen durchgehen und wichtige Punkte ins jeweilige Kapitel schreiben
+
+- erste Kapitel anfangen
+-> Einleitung
+-> und nochwas, was sich runterschreiben lässt (ISO oder so)
+
+Skript Entwurf des Ergebnis und Diskussionsteils an Elisabeth schicken
+-> in 1-2 Wochen?
+
+
+
+
+
+abgeschlossen
+=============
+welche Frage gehört zu welchem Kriterium
+--> aus der Norm
